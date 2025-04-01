@@ -1,0 +1,143 @@
+{
+  "user_profile": {
+    "name": "Lai",
+    "productivity_peak": "Morning",
+    "work_routine": "Flexible with Structure",
+    "break_frequency": "Frequent Short Breaks",
+    "goal_timeframe": "Monthly Goals",
+    "habit_formation": "Moderate Changes",
+    "health_priority": [
+      "Sleep",
+      "Exercise",
+      "Water Intake"
+    ],
+    "theme": "light",
+    "onboarded_at": "2025-03-29T08:05:37.217873"
+  },
+  "categories": [
+    {
+      "id": "3fec01da-2414-4757-8487-ae3d9354d7c0",
+      "name": "Work",
+      "color": "#FF5733"
+    },
+    {
+      "id": "fc65883a-dcb0-4fd9-b065-e1a44f9c9e72",
+      "name": "Personal",
+      "color": "#33FF57"
+    },
+    {
+      "id": "c7e81b29-464c-431c-98d6-68dcd5936471",
+      "name": "Health",
+      "color": "#3357FF"
+    },
+    {
+      "id": "e78296a7-9904-45b0-997e-36f8e396611c",
+      "name": "Learning",
+      "color": "#F033FF"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "0d2be74f-421e-4bf2-91df-530b4feb0a22",
+      "title": "Drink 1 litres of water",
+      "description": "",
+      "category_id": "3fec01da-2414-4757-8487-ae3d9354d7c0",
+      "created_at": "2025-03-29T08:05:58.344842",
+      "due_date": null,
+      "completed": false,
+      "importance": 3,
+      "urgency": 3,
+      "priority_score": 9
+    },
+    {
+      "id": "119653cd-3841-4820-8bdd-62081a9e2d77",
+      "title": "Exercise 20 minutes",
+      "description": "work out and persist",
+      "category_id": "c7e81b29-464c-431c-98d6-68dcd5936471",
+      "created_at": "2025-03-29T08:07:58.720108",
+      "due_date": "2025-03-06T00:00:00",
+      "completed": false,
+      "importance": 4,
+      "urgency": 3,
+      "priority_score": 12
+    },
+    {
+      "id": "c0e78ac8-2f5d-4008-b9f7-8f4607ab95d5",
+      "title": "Train a model",
+      "description": "machine learning from the model",
+      "category_id": "e78296a7-9904-45b0-997e-36f8e396611c",
+      "created_at": "2025-03-29T08:13:41.515559",
+      "due_date": "2025-03-31T00:00:00",
+      "completed": true,
+      "importance": 4,
+      "urgency": 2,
+      "priority_score": 8,
+      "completed_at": "2025-03-29T08:31:16.469733"
+    },
+    {
+      "id": "4edbd025-cc41-44b6-98a8-7f224ea23c92",
+      "title": "hello world",
+      "description": "",
+      "category_id": "3fec01da-2414-4757-8487-ae3d9354d7c0",
+      "created_at": "2025-03-29T08:37:06.644578",
+      "due_date": null,
+      "completed": false,
+      "importance": 3,
+      "urgency": 3
+    }
+  ],
+  "goals": [],
+  "habits": [
+    {
+      "id": "c397cada-742c-46d7-9890-26bfaa2a347a",
+      "title": "Meditate for 10 minutes",
+      "description": "",
+      "category_id": "c7e81b29-464c-431c-98d6-68dcd5936471",
+      "created_at": "2025-03-29T08:16:28.382760",
+      "frequency": "daily",
+      "current_streak": 1,
+      "best_streak": 1,
+      "check_ins": [
+        "2025-03-29"
+      ]
+    },
+    {
+      "id": "9efad9c8-276a-4700-ae45-3cd03a3ab326",
+      "title": "Practice gratitude",
+      "description": "",
+      "category_id": "c7e81b29-464c-431c-98d6-68dcd5936471",
+      "created_at": "2025-03-29T08:30:21.192499",
+      "frequency": "daily",
+      "current_streak": 1,
+      "best_streak": 1,
+      "check_ins": [
+        "2025-03-29"
+      ]
+    }
+  ],
+  "calendar_events": [
+    {
+      "id": "32612704-f9e4-410c-b6f7-23ed569cd3c3",
+      "title": "Group meeting",
+      "description": "UWS",
+      "location": "NYP campus",
+      "category_id": "3fec01da-2414-4757-8487-ae3d9354d7c0",
+      "start_time": "2025-03-29T09:00:09.949580",
+      "end_time": "2025-03-29T10:00:09.949580",
+      "created_at": "2025-03-29T08:15:09.966285"
+    },
+    {
+      "id": "74f5e267-c91e-4840-a0e1-55492a019b16",
+      "title": "Group meeting",
+      "description": "UWS",
+      "location": "NYP campus",
+      "category_id": "3fec01da-2414-4757-8487-ae3d9354d7c0",
+      "start_time": "2025-03-30T08:00:00",
+      "end_time": "2025-03-30T09:00:00",
+      "created_at": "2025-03-29T08:15:20.823584"
+    }
+  ],
+  "points": 20,
+  "rewards": [],
+  "unlocked_rewards": []
+}
