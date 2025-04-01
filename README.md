@@ -1,1 +1,2 @@
-# SingAI-Queens-temp
+# SmartScheduler
+A project done by SingAI Queens
